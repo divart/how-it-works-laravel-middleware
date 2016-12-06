@@ -9,17 +9,23 @@ In this Coffee Break Course, Envato Tuts+ instructor Matthew Machuga will show y
 
 ## Source Files Description
 
-This repository contains a simple code example that demonstrates how middleware works. To run the example code that demonstrates how the middleware works, run:
+This repository contains a simple code example that demonstrates how middleware works, as well as an example of using middleware in Laravel.
+
+#### PHP Example
+
+To run the example code that demonstrates how the middleware works, run:
 
     php ./example.php
 
 Play around with this script to see how various changes might affect how the
 middleware executes.
 
-## Laravel Sample
+#### Laravel Example
+
+To run the Laravel example:
 
 - Install dependencies with `composer install`
-- Run built in server with `php artisan serve`
+- Run the built in server with `php artisan serve`
 
 ------
 
