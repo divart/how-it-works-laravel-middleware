@@ -25,7 +25,7 @@ middleware executes.
 To run the Laravel example:
 
 - Install dependencies with `composer install`
-- Run the built in server with `php artisan serve`
+- Run the built-in server with `php artisan serve`
 
 ------
 
